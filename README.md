@@ -15,9 +15,9 @@ Figs. 1 and 2 – “tv_sst_FullTv_paper.ipynb” – produces cross sections of
 
 Figs. 3 and S2 – “pgf_gp_estimates_curves.ipynb” – produces PGF and geopotential plots
 
-Figs. 4, 6, and S3 – “cv_hovm_allmon.ipynb” – produces convergence and convergence ratio plots
+Figs. 4, 5, and S3 – “cv_hovm_allmon.ipynb” – produces convergence and convergence ratio plots
 
-Figs. 5 and 8 – “tv_dtv_dp_paper.ipynb” – produces lapse rates plots
+Figs. 6 and 8 – “tv_dtv_dp_paper.ipynb” – produces lapse rates plots
 
 Figs. 7 and S7 “Sc_profiles_CASCCAD.ipynb” – produces low cloud plots
 
